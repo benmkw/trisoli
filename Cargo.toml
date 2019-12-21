@@ -1,0 +1,9 @@
+[package]
+name = "trisoli"
+version = "0.1.0"
+authors = ["Benedikt Mandelkow <benedikt.mandelkow@rwth-aachen.de>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+rand = "*"
